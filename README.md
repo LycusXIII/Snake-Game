@@ -9,6 +9,7 @@ This Python project implements a classic Snake game using the Turtle graphics li
 1. **Prerequisites:**
    * Python 3.12 installed
    * `turtle` library (usually comes pre-installed with Python)
+   * Link to the turtle documentation: https://docs.python.org/3/library/turtle.html
 
 2. **Installation:**
    * Clone this repository or download the Python files (`main.py`, `snake.py`, `food.py`, `scoreboard.py`).
