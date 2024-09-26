@@ -1,4 +1,4 @@
-## **GitHub README for Snake Game**
+## **Snake Game**
 
 ### **Project Description**
 
