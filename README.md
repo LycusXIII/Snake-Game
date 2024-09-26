@@ -34,6 +34,7 @@ This Python project implements a classic Snake game using the Turtle graphics li
 ### **Dependencies**
 
 This project relies on the `turtle` library, which is part of the standard Python library.
+
 Link to the turtle documentation: https://docs.python.org/3/library/turtle.html
 
 **Enjoy playing your Snake game!**
