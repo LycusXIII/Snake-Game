@@ -35,9 +35,4 @@ This Python project implements a classic Snake game using the Turtle graphics li
 
 This project relies on the `turtle` library, which is part of the standard Python library.
 
-### **Contributing**
-
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
-
-
 **Enjoy playing your Snake game!**
