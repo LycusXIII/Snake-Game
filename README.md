@@ -2,7 +2,7 @@
 
 ### **Project Description**
 
-This Python project implements a classic Snake game using the Turtle graphics library. Players control a snake to eat food and grow longer, while avoiding collisions with walls or their own tail.
+This Python project implements a Snake game using the Turtle graphics library. Players control a snake to eat food and grow longer, while avoiding collisions with walls or their own tail.
 
 ### **Getting Started**
 
